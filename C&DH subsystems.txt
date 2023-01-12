@@ -1,0 +1,53 @@
+For better reading of the .txt file, disable text wrapping.
+
+#	| VENDOR						| C&DH SYSTEMS								| REFERENCE
+============================================================================================================================================================================================
+1	| AAC Clyde Space					| KRYTEN-M3 & KRYTEN-M3 PLUS						| https://www.aac-clyde.space/what-we-do/space-products-components/command-data-handling/cubesat-onboard-computer-kryten-m3
+2	| AAC Clyde Space					| Sirius-OBC-LEON3FT							| https://www.aac-clyde.space/what-we-do/space-products-components/command-data-handling/smallsat-sirius-obc
+3	| AAC Clyde Space					| Q7 / Q7S									| https://www.aac-clyde.space/what-we-do/space-products-components/command-data-handling/q7s
+	| Xiphos Technologies														| http://xiphos.com/products/q7-processor/
+4	| Alen Space					| TRISKEL (OBC, TTC, OBSW)						| https://alen.space/es/telecomando-y-gestion-de-datos-para-pequenos-satelites/
+5	| BAE Systems					| RAD510™ SoC based single board computer				| https://www.baesystems.com/en-us/our-company/inc-businesses/electronic-systems/product-sites/space-products-and-processing/radiation-hardened-electronics
+6	| BAE Systems					| RAD5545™ SpaceVPX single-board computer				| https://www.baesystems.com/en-us/our-company/inc-businesses/electronic-systems/product-sites/space-products-and-processing/radiation-hardened-electronics
+7	| C3S							| ON-BOARD COMPUTER (OBC)						| https://c3s.hu/wp-content/uploads/2022/01/C3S_OBC_datasheet.pdf
+8	| C3S							| CHP-OBC									| https://c3s.hu/wp-content/uploads/2022/08/IPC-datasheet-4.0.pdf
+9	| EnduroSat						| ONBOARD COMPUTER (OBC)						| https://www.endurosat.com/cubesat-store/cubesat-obc/onboard-computer-obc/
+10	| EREMS						| CPU BOARD - CONTROL AND PROCESSING UNIT				| https://www.erems.fr/en/produit/cpu-board-control-and-processing-unit.php
+11	| EREMS						| CPUGEN - ON.BOARD COMPUTING MODULE				| https://www.erems.fr/en/produit/cpugen-on-board-computing-module.php
+12	| Cubesat Market					| ICEPS Spacecraft System Core All-in-one: EPS/OBC/Radio	| https://www.cubesat.market/all-in-one
+13	| GALAXIA Mission Systems			| ionVortex Firefly OBC							| https://www.galaxiams.com/ionvortex-firefly-obc
+14	| GALAXIA Mission Systems			| ionVortex Raven OBC							| https://www.galaxiams.com/ionvortex-raven-obc
+15	| GAUSS						| ABACUS									| https://www.gaussteam.com/products/onboard-computer/abacus-2/
+16	| GAUSS						| Hercules									| https://www.gaussteam.com/products/onboard-computer/hercules/
+17	| GOMSpace						| NanoMind A3200								| https://gomspace.com/shop/subsystems/command-and-data-handling/nanomind-a3200.aspx
+18	| GUMUSH						| N-ART OBCOMMS								| https://gumush.com.tr/product/n-art-obcomms/
+19	| H4R Human for research			| OBC										| https://www.h4-research.com/h4r_products/obc/
+20	| Ibeos						| Edge-300									| https://www.ibeos.com/standard-products
+21	| Infinity Avionics				| VOLKH PROCESSING PLATFORM						| https://infinityavionics.com/products/volkh/
+22	| Infinity Avionics				| PERUN PROCESSING PLATFORM						| https://infinityavionics.com/products/perun/
+23	| Innoflight					| CFC-400X: COMPACT FLIGHT COMPUTER					| https://www.innoflight.com/product-overview/cfcs/cfc-400/
+24	| Innoflight					| CFC-500: COMPACT FLIGHT COMPUTER					| https://www.innoflight.com/product-overview/cfcs/cfc-500/
+25	| ISISpace						| ISIS On Board Computer						| https://www.isispace.nl/product/on-board-computer/
+26	| KP Labs						| Antelope									| https://kplabs.space/antelope/
+27	| NanoAvionics					| CubeSat On-Board Computer – Main Bus Unit SatBus 3C2	| https://nanoavionics.com/cubesat-components/cubesat-on-board-computer-main-bus-unit-satbus-3c2/
+28	| Novo Space					| SBC002AV									| https://www.novo.space/products/sbc002av
+29	| Novo Space					| SBC003AV									| https://www.novo.space/products/sbc003av
+30	| Novo Space					| SBC004AV									| https://www.novo.space/products/sbc004av
+31	| ORBASTRO						| TELOS OBC									| https://orbastro.com/subsystems/telos-obc/
+32	| Pumpkin						| Pluggable Processor Module						| https://www.pumpkinspace.com/store/p144/Pluggable_Processor_Module_A1_%28PPM_A1%29%2C_with_TI%E2%80%99s_MSP430F1612.html
+33	| SkyLabs						| NANOhpc-obc								| https://www.skylabs.si/products/nanohpc-obc/#toggle-id-2
+34	| SkyLabs						| NANOhpm-obc								| https://www.skylabs.si/products/nanohpm-obc/#toggle-id-1
+35	| SkyLabs						| NANOobc-2									| https://www.skylabs.si/products/nanoobc-2/#toggle-id-2
+36	| Smart Small Satellite Systems		| Robust On-Board Data Handling Unit				| https://www.s4-space.com/files/S4_OBC.pdf
+37	| Spaceai						| NIO										| https://spaceai.com/nio
+38	| SPACE MICRO					| PROTON600K MULTI-CORE COMPUTER					| https://www.spacemicro.com/products/digital-systems/PROTON600K%E2%84%A2%20MULTI-CORE%20COMPUTER.pdf
+39	| SPACE MICRO					| PROTON400K SINGLE BOARD COMPUTER (SBC)				| https://www.spacemicro.com/products/digital-systems/PROTON400K%E2%84%A2%20SINGLE%20BOARD%20COMPUTER%20(SBC).pdf
+40	| SPACE MICRO					| CSP: CUBESAT SPACE PROCESSOR					| https://www.spacemicro.com/products/digital-systems.html
+41	| Spacemanic					| Eddie Onboard Computer						| https://www.spacemanic.com/eddie-onboard-computer/
+42	| Spacemanic					| Deep Thought On-board Computer					| https://www.spacemanic.com/deep-thought-onboard-computer/
+43	| SPUTNIX						| On-board computer							| https://sputnix.ru/en/equipment/cubesat-devices/on-board-computer
+44	| STM							| NANOSATPRO								| https://www.stm.com.tr/en/our-solutions/command-and-control/nanosatpro-2718
+45	| STM							| MICROSATPRO								| https://www.stm.com.tr/en/our-solutions/command-and-control/microsatpro-2713
+46	| Xiphos Technologies				| Q8 / Q8S									| http://xiphos.com/products/q8-processor/
+47	| Xiphos Technologies				| Q8J / Q8JS								| http://xiphos.com/products/q8j-processor/
+48	| Zephyr Computing Systems			| Zephyr Kestrel								| https://www.zephyrcomputing.space/data-processing
